@@ -3,5 +3,5 @@
 #include "default_printer.h"
 
 void default_print() {
-    printf("DEFAULT\n");
+    printf("DEFAULT PRINTER\n");
 }
